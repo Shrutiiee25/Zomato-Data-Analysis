@@ -44,23 +44,23 @@ Several visualizations were created to understand the data better:
 ## How to Use
 
 1. *Clone the repository*:
-   bash
+   ```bash
    git clone https://github.com/Shrutiiee25/Zomato-Data-Analysis
    
 
 2. *Navigate to the project directory*:
-   bash
+   ```bash
    cd zomato-restaurant-analysis
    
 
 3. *Install the required dependencies*:
-   bash
+   ```bash
    pip install -r requirements.txt
    
 
 4. *Run the Jupyter Notebook*:
-   bash
-   jupyter notebook python_project_3_Zomato.ipynb
+   ```bash
+   jupyter notebook Zomato_data_Analysis.ipynb
    
 
 ## Results
