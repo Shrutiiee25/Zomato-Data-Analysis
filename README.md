@@ -45,7 +45,7 @@ Several visualizations were created to understand the data better:
 
 1. *Clone the repository*:
    bash
-   git clone https://github.com/yourusername/zomato-restaurant-analysis.git
+   git clone https://github.com/Shrutiiee25/Zomato-Data-Analysis
    
 
 2. *Navigate to the project directory*:
